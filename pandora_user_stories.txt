@@ -1,0 +1,68 @@
+PANDORA
+
+Features:
+
+1. Music Streaming
+2. Radio stations
+3. Miscellanous
+
+Music Streaming Conditionals:
+
+1. If music is currently playing, pressing the pause button pauses the music.
+2. If music is currently paused, pressing the play button resumes the music.
+3. Pressing the forward button moves to the next song.
+4. Pressing the replay button starts the current song over.
+5. If there is an active internet connection, music is streamed.
+6. If offline listening is toggled on and there is no active internet connection 
+then the music from your offline station will be played.
+
+Music Streaming User Stories:
+
+1. As a User, I can pause my music.
+2. As a User, I can resume my music from where it left off.
+3. As a User, I can skip a song if I don't like it.
+4. As a User, I can listen to the current song again if I liked it.
+5. As a User, I can stream music with an internet connection.
+6. As a User, I can still listen to music should my internet connection go down.
+
+
+Radio stations conditionals:
+
+1. If create station button is clicked, a new radio station is created.
+2. The created station is visible in a list along with other created stations.
+3. The radio station created is congruent with the seeded song/artist the user put in; made the correct station.
+4. If a station is deleted, it is removed from list of radio stations.
+5. Radio station details, such as seeded song/artist, are modifiable.
+6. If station is shared with another user, that user can get a copy of the shared station.
+7. If a song is Thumbed-up on a station, that song is added to the radio stations liked songs list and songs that are similar
+to it will play more often on the station.
+8. If a song is thumbed-down on a station, that song will no longer play on the station.
+
+Radio Stations user stories:
+
+1. As a User, I can create a new radio station.
+2. As a User, I can easily view and access my collection of radio stations.
+3. As a User, I can expect my created station to have music that is similar to what I seeded it with.
+4. As a User, I can remove radio stations from  my collection of radio stations.
+5. As a User, I can make changes to existing radio stations.
+6. As a User, I can share my radio stations with others.
+7. As a User, I can expect to hear more content similar to what I've explicitly liked.
+8. As a User, I can filter away songs by disliking them.
+
+Miscellanous Conditionals:
+
+1. If user has premium no advertisements are played.
+2. App still functions if in background.
+3. If user has profile picture, display picture on profile page.
+4. Comments on artists/albums/songs can be written and read by users.
+5. If alarm is set-up then pandora starts up and plays music at the time set.
+6. If sleep timer is active, then pandora turns off once the timer reaches the allotted time.
+
+Miscellanous user Stories:
+
+1. As a Premium User, I can listen to music without ad interruptions.
+2. As a User, I can continue to listen to music even if I turn the screen off or open other apps.
+3. As a User, I can set a profile picture on my account.
+4. As a User, I can share my opinions on songs/artists/albums with the community.
+5. As a User, I can set an alarm to have pandora wake me up with the radio station of my choice.
+6. As a User, I can set a sleep timer to have pandora itself off.
