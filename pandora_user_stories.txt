@@ -47,7 +47,7 @@ Radio Stations user stories:
 5. As a User, I can make changes to existing radio stations.
 6. As a User, I can share my radio stations with others.
 7. As a User, I can expect to hear more content similar to what I've explicitly liked.
-8. As a User, I can filter away songs by disliking them.
+8. As a User, I can filter away songs by down-thumbing them.
 
 Miscellanous Conditionals:
 
@@ -61,8 +61,8 @@ Miscellanous Conditionals:
 Miscellanous user Stories:
 
 1. As a Premium User, I can listen to music without ad interruptions.
-2. As a User, I can continue to listen to music even if I turn the screen off or open other apps.
+2. As a User, I can continue to listen to music even if I turn my phone screen off or open other apps.
 3. As a User, I can set a profile picture on my account.
 4. As a User, I can share my opinions on songs/artists/albums with the community.
 5. As a User, I can set an alarm to have pandora wake me up with the radio station of my choice.
-6. As a User, I can set a sleep timer to have pandora itself off.
+6. As a User, I can set a sleep timer to have pandora turns itself off.
